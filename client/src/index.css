@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: sans-serif;
+  /* background-image: url("/Users/jingnili/Desktop/JS/PJs/project2/client/src/img/BWC_Mark_-_FULL.png"); */
+
+  /* Full height */
+  /* /* height: 100%;
+  width: 100%; */
+
+  /* Center and scale the image nicely */
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
